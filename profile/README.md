@@ -6,10 +6,9 @@ In this course we will learn tools and techniques to make products more reliable
 
 ## Collaboration Tools
 - Course Management - [Siena Canvas](https://canvas.siena.edu)
-- Code - [Github](https://github.com/SienaCollegeSoftwareEngineering/)
-- Boards - [Zendesk](https://zendesk.com)
 - Communication - [Mattermost](https://mm.csis410.com)
-
+- Boards - [Zendesk](https://zendesk.com)
+- Code - [Github](https://github.com/SienaCollegeSoftwareEngineering/)
 ## Current Projects
 - [SoS Augmented Reality](https://github.com/SienaCollegeSoftwareEngineering/SoS_Augmented_Reality)
 - [Programming Contest](https://github.com/SienaCollegeSoftwareEngineering/ProgrammingContest)
