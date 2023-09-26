@@ -10,6 +10,12 @@ In this course we will learn tools and techniques to make products more reliable
 - Boards - [Zendesk](https://zendesk.com)
 - Communication - [Mattermost](https://mm.csis410.com)
 
+## Current Projects
+- [SoS Augmented Reality](https://github.com/SienaCollegeSoftwareEngineering/SoS_Augmented_Reality)
+- [Programming Contest](https://github.com/SienaCollegeSoftwareEngineering/ProgrammingContest)
+- [Drinksity](https://github.com/SienaCollegeSoftwareEngineering/Drinksity)
+- [Wel](https://github.com/SienaCollegeSoftwareEngineering/wel_web)
+
 Feel free to reachout to reach out to any of the following instructors:
 ## Instructors
 - [Jami Cotler, PhD](https://csis410.com/jami)
