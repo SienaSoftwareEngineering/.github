@@ -6,16 +6,11 @@ In this course we will learn tools and techniques to make products more reliable
 
 ## Collaboration Tools
 - Course Management - [Siena Canvas](https://canvas.siena.edu)
-- Communication - [Mattermost](https://mm.csis410.com)
-- Boards - [Zendesk](https://zendesk.com)
 - Code - [Github](https://github.com/SienaCollegeSoftwareEngineering/)
 ## Current Projects
-- [SoS Augmented Reality](https://github.com/SienaCollegeSoftwareEngineering/SoS_Augmented_Reality)
 - [Programming Contest](https://github.com/SienaCollegeSoftwareEngineering/ProgrammingContest)
 - [Drinksity](https://github.com/SienaCollegeSoftwareEngineering/Drinksity)
 - [WEL](https://github.com/welgroup/core)
 
-Feel free to reachout to reach out to any of the following instructors:
-## Instructors
-- [Jami Cotler, PhD](https://csis410.com/jami)
-- [Ninad Chaudhari, MS](https://nchaudhari.com)
+## Old Projects
+- [SoS Augmented Reality](https://github.com/SienaCollegeSoftwareEngineering/SoS_Augmented_Reality)
