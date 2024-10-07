@@ -9,6 +9,7 @@ In this course we will learn tools and techniques to make products more reliable
 - Code - [Github](https://github.com/SienaCollegeSoftwareEngineering/)
 ## Current Projects
 - [Programming Contest](https://github.com/SienaCollegeSoftwareEngineering/ProgrammingContest)
+- [Healthcare Scheduler](https://github.com/SienaCollegeSoftwareEngineering/Healthcare-Scheduler)
 - [Drinksity](https://github.com/SienaCollegeSoftwareEngineering/Drinksity)
 - [WEL](https://github.com/welgroup/core)
 
