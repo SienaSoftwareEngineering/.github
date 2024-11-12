@@ -11,7 +11,7 @@ In this course we will learn tools and techniques to make products more reliable
 - [Programming Contest](https://github.com/SienaCollegeSoftwareEngineering/ProgrammingContest)
 - [Healthcare Scheduler](https://github.com/SienaCollegeSoftwareEngineering/Healthcare-Scheduler)
 - [Drinksity](https://github.com/SienaCollegeSoftwareEngineering/Drinksity)
-- [WEL](https://github.com/welgroup/core)
+- [Social Media](https://github.com/SienaCollegeSoftwareEngineering/SocialMedia) 
 
 ## Old Projects
 - [SoS Augmented Reality](https://github.com/SienaCollegeSoftwareEngineering/SoS_Augmented_Reality)
