@@ -8,6 +8,8 @@ Welcome! In this course, we explore tools and techniques to build reliable, safe
 ## 🚀 Current Projects
 
 ### 🎯 Programming Contest
+[![GitHub Repo](https://img.shields.io/badge/repo-link-blue)](https://github.com/SienaCollegeSoftwareEngineering/ProgrammingContest)
+[![Project Board](https://img.shields.io/badge/project-board-green)](https://github.com/orgs/SienaCollegeSoftwareEngineering/projects/12)
 - 💻 [Source Code](https://github.com/SienaCollegeSoftwareEngineering/ProgrammingContest)
 - 🧠 [Project Board](https://github.com/orgs/SienaCollegeSoftwareEngineering/projects/12)
 - 📁 [Google Drive](https://drive.google.com/drive/folders/1QIHmcPjhZgP0bWCAOOzdKpyDysVhOVpi)  
