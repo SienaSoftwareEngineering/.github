@@ -7,14 +7,6 @@ Welcome! In this course, we explore tools and techniques to build reliable, safe
 
 ## 🚀 Current Projects
 
-### 🎯 Programming Contest
-[![GitHub Repo](https://img.shields.io/badge/repo-link-blue)](https://github.com/SienaCollegeSoftwareEngineering/ProgrammingContest)
-[![Project Board](https://img.shields.io/badge/project-board-green)](https://github.com/orgs/SienaCollegeSoftwareEngineering/projects/12)
-- 💻 [Source Code](https://github.com/SienaCollegeSoftwareEngineering/ProgrammingContest)
-- 🧠 [Project Board](https://github.com/orgs/SienaCollegeSoftwareEngineering/projects/12)
-- 📁 [Google Drive](https://drive.google.com/drive/folders/1QIHmcPjhZgP0bWCAOOzdKpyDysVhOVpi)  
-  ┗ 📂 [2023-24](https://drive.google.com/drive/folders/1S9VS0eyv8Caj-dwMTsGZc9foU0o9vO2m)
-
 ### 🏥 Healthcare Scheduler
 - 💻 [Source Code](https://github.com/SienaCollegeSoftwareEngineering/Healthcare-Scheduler)
 - 🧠 [Project Board](https://github.com/orgs/SienaCollegeSoftwareEngineering/projects/18)
@@ -33,6 +25,11 @@ Welcome! In this course, we explore tools and techniques to build reliable, safe
 - 📁 [Google Drive](https://drive.google.com/drive/folders/1rV6GnV7swlgyFW-ccwPpOSTU60FYQBum)  
   ┗ 📂 [2023-24 WEL](https://drive.google.com/drive/folders/1NvSeGj0bRqnUFcah48xElABSCNcfzWnh)
 
+### Saints Connect
+- Source Code
+- Project Board
+- Google Drive 
+
 ---
 
 ## 🛠 Tools & Platforms
@@ -43,6 +40,17 @@ Welcome! In this course, we explore tools and techniques to build reliable, safe
 
 ## 📦 Legacy Projects
 
-### 🥽 SoS Augmented Reality
+
+### 🥽 SoS Augmented Reality 
+_Concluded Sp 24_
 - 💻 [Source Code](https://github.com/SienaCollegeSoftwareEngineering/SoS_Augmented_Reality)
 - 📁 [Google Drive](https://drive.google.com/drive/folders/1mhvEKlCva1944C6E3wD4GamRXa8ekgec)
+
+### 🎯 Programming Contest
+_Concluded Sp 25_
+[![GitHub Repo](https://img.shields.io/badge/repo-link-blue)](https://github.com/SienaCollegeSoftwareEngineering/ProgrammingContest)
+[![Project Board](https://img.shields.io/badge/project-board-green)](https://github.com/orgs/SienaCollegeSoftwareEngineering/projects/12)
+- 💻 [Source Code](https://github.com/SienaCollegeSoftwareEngineering/ProgrammingContest)
+- 🧠 [Project Board](https://github.com/orgs/SienaCollegeSoftwareEngineering/projects/12)
+- 📁 [Google Drive](https://drive.google.com/drive/folders/1QIHmcPjhZgP0bWCAOOzdKpyDysVhOVpi)  
+  ┗ 📂 [2023-24](https://drive.google.com/drive/folders/1S9VS0eyv8Caj-dwMTsGZc9foU0o9vO2m)
