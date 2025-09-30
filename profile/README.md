@@ -25,7 +25,7 @@ Welcome! In this course, we explore tools and techniques to build reliable, safe
 - 📁 [Google Drive](https://drive.google.com/drive/folders/1rV6GnV7swlgyFW-ccwPpOSTU60FYQBum)  
   ┗ 📂 [2023-24 WEL](https://drive.google.com/drive/folders/1NvSeGj0bRqnUFcah48xElABSCNcfzWnh)
 
-### Saints Connect
+### Saints Select
 - Source Code
 - Project Board
 - Google Drive 
