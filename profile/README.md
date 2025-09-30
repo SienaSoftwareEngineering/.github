@@ -1,4 +1,4 @@
-# 👩‍💻 Software Engineering @ Siena College  
+# 👩‍💻 Software Engineering @ Siena  
 > _"Simplicity is prerequisite for reliability."_ – Edsger W. Dijkstra
 
 Welcome! In this course, we explore tools and techniques to build reliable, safe, and user-friendly software. We also focus on processes that address the crucial `human` factor in computing.
