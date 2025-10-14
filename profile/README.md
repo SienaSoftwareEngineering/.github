@@ -9,7 +9,7 @@ Welcome! In this course, we explore tools and techniques to build reliable, safe
 
 ### 🏥 Healthcare Scheduler
 - 💻 [Source Code](https://github.com/SienaCollegeSoftwareEngineering/Healthcare-Scheduler)
-- 🧠 [Project Board](https://github.com/orgs/SienaCollegeSoftwareEngineering/projects/18)
+- 🧠 [Project Board](https://github.com/orgs/SienaSoftwareEngineering/projects/26)
 - 💬 [Discord](https://discord.gg/QFp6DxUh)
 - 📁 [Google Drive](https://drive.google.com/drive/folders/1M1tGNhmu9C_LIcgbrfFBWMc4EufeeCLD)
 
