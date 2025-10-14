@@ -25,10 +25,10 @@ Welcome! In this course, we explore tools and techniques to build reliable, safe
 - 📁 [Google Drive](https://drive.google.com/drive/folders/1rV6GnV7swlgyFW-ccwPpOSTU60FYQBum)  
   ┗ 📂 [2023-24 WEL](https://drive.google.com/drive/folders/1NvSeGj0bRqnUFcah48xElABSCNcfzWnh)
 
-### Saints Select
-- Source Code
-- Project Board
-- Google Drive 
+### 🔍 Saints Select
+- 💻 [Source Code](https://github.com/SienaSoftwareEngineering/SaintsSelect)
+- 🧠 [Project Board](https://github.com/orgs/SienaSoftwareEngineering/projects/27)
+- 📁 [Google Drive](https://drive.google.com/drive/folders/1xZuncCLq0zyl9ZCVgSyfq0vt7SD9rqDw)
 
 ---
 
