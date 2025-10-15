@@ -22,8 +22,8 @@ Welcome! In this course, we explore tools and techniques to build reliable, safe
 ### 📱 Social Media Platform
 - 💻 [Source Code](https://github.com/SienaCollegeSoftwareEngineering/SocialMedia)
 - 🧠 [Project Board](https://github.com/orgs/SienaCollegeSoftwareEngineering/projects/7)
-- 📁 [Google Drive](https://drive.google.com/drive/folders/17IHxzUJjqn4TKah8gt-taSRpzQElqr43?usp=sharing)
-  ┗ 📂 [2024-25 WEL](https://drive.google.com/drive/folders/1rV6GnV7swlgyFW-ccwPpOSTU60FYQBum?usp=sharing)
+- 📁 [Google Drive](https://drive.google.com/drive/folders/17IHxzUJjqn4TKah8gt-taSRpzQElqr43?usp=sharing)\
+  ┗ 📂 [2024-25 WEL](https://drive.google.com/drive/folders/1rV6GnV7swlgyFW-ccwPpOSTU60FYQBum?usp=sharing)\
   ┗ 📂 [2023-24 WEL](https://drive.google.com/drive/folders/1NvSeGj0bRqnUFcah48xElABSCNcfzWnh)
 
 ### 🔍 Saints Select
