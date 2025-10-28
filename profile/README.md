@@ -45,6 +45,7 @@ Welcome! In this course, we explore tools and techniques to build reliable, safe
 ### 🥽 SoS Augmented Reality 
 _Concluded Sp 24_
 - 💻 [Source Code](https://github.com/SienaCollegeSoftwareEngineering/SoS_Augmented_Reality)
+- [Project Board](https://github.com/orgs/SienaSoftwareEngineering/projects/14)
 - 📁 [Google Drive](https://drive.google.com/drive/folders/1mhvEKlCva1944C6E3wD4GamRXa8ekgec)
 
 ### 🎯 Programming Contest
