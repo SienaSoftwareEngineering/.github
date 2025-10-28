@@ -15,7 +15,7 @@ Welcome! In this course, we explore tools and techniques to build reliable, safe
 
 ### 🍹 Drinksity
 - 💻 [Source Code](https://github.com/SienaCollegeSoftwareEngineering/Drinksity)
-- 🧠 [Project Board](https://github.com/orgs/SienaCollegeSoftwareEngineering/projects/22)
+- 🧠 [Project Board](https://github.com/orgs/SienaSoftwareEngineering/projects/31)
 - 📁 [Google Drive](https://drive.google.com/drive/folders/13DcV4Cs5fW7dHe6PvK7f-g8jTS25au6W)  
   ┗ 📂 [2023-24](https://drive.google.com/drive/folders/1hc01DhkHNpUhvw0_6y4hPd4gB6B3gBha)
 
