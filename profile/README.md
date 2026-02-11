@@ -30,6 +30,7 @@ Welcome! In this course, we explore tools and techniques to build reliable, safe
 ### 🔍 Saints Select
 - 💻 [Source Code](https://github.com/SienaSoftwareEngineering/SaintsSelect)
 - 🧠 [Project Board](https://github.com/orgs/SienaSoftwareEngineering/projects/27)
+- 💬 [Discord](https://discord.gg/vyZYJPQnDV)
 - 📁 [Google Drive](https://drive.google.com/drive/folders/1xZuncCLq0zyl9ZCVgSyfq0vt7SD9rqDw)
 
 ---
