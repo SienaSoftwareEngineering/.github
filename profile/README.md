@@ -21,6 +21,7 @@ Welcome! In this course, we explore tools and techniques to build reliable, safe
 
 ### 📱 Social Media Platform
 - 💻 [Source Code](https://github.com/SienaCollegeSoftwareEngineering/SocialMedia)
+- 💻 [discuit updated]([https://github.com/SienaCollegeSoftwareEngineering/SocialMedia](https://github.com/SienaSoftwareEngineering/discuit))
 - 🧠 [Project Board](https://github.com/orgs/SienaSoftwareEngineering/projects/30)
 - 💬 [Google Chat](https://chat.google.com/room/AAQA9qQA3SU?cls=7)
 - 📁 [Google Drive](https://drive.google.com/drive/folders/17IHxzUJjqn4TKah8gt-taSRpzQElqr43?usp=sharing)\
