@@ -10,8 +10,8 @@ Welcome! In this course, we explore tools and techniques to build reliable, safe
 
 
 ### 🔍 Saints Select
-- 💻 [Source Code](https://github.com/SienaSoftwareEngineering/SaintsSelect)
-  - 📜 [Legacy Code](https://github.com/SienaSoftwareEngineering/SaintsSelect-A26-27/)
+- 💻 [Source Code](https://github.com/SienaSoftwareEngineering/SaintsSelect-A26-27/)
+  - 📜 [Legacy Code](https://github.com/SienaSoftwareEngineering/SaintsSelect)
 - 🧠 [Project Board]()
 - 💬 [Discord](https://discord.gg/vyZYJPQnDV)
 - 📁 [Google Drive](https://drive.google.com/drive/folders/1xZuncCLq0zyl9ZCVgSyfq0vt7SD9rqDw)
