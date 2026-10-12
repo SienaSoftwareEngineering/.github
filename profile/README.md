@@ -25,7 +25,7 @@ Welcome! In this course, we explore tools and techniques to build reliable, safe
 
 
 ### 🔍 WelTauk 
-- 💻 [Source Code](https://github.com/SienaSoftwareEngineering/SaintsSelect)
+- 💻 [Source Code](https://github.com/SienaSoftwareEngineering/email-coach)
 - 🧠 [Project Board](https://github.com/orgs/SienaSoftwareEngineering/projects/27)
 - 💬 [Discord](https://discord.gg/AyfAbSH9Zt)
 - 📁 [Google Drive](https://drive.google.com/drive/folders/1HoLGyHVWaVzApmZB4MUHe0tM0EYfKEB_?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto)
