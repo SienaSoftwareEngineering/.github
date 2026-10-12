@@ -27,7 +27,7 @@ Welcome! In this course, we explore tools and techniques to build reliable, safe
 - 💻 [Source Code](https://github.com/SienaSoftwareEngineering/SaintsSelect)
 - 🧠 [Project Board](https://github.com/orgs/SienaSoftwareEngineering/projects/27)
 - 💬 [Discord](https://discord.gg/vyZYJPQnDV)
-- 📁 [Google Drive]([https://drive.google.com/drive/folders/1xZuncCLq0zyl9ZCVgSyfq0vt7SD9rqDw](https://drive.google.com/drive/folders/1HoLGyHVWaVzApmZB4MUHe0tM0EYfKEB_?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto))
+- 📁 [Google Drive](https://drive.google.com/drive/folders/1HoLGyHVWaVzApmZB4MUHe0tM0EYfKEB_?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto)
 
 
 ---
