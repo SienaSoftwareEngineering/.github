@@ -21,7 +21,7 @@ Welcome! In this course, we explore tools and techniques to build reliable, safe
 - 💻 [Source Code](https://github.com/SienaSoftwareEngineering/behavior-ai)
 - 🧠 [Project Board]()
 - 💬 [Discord](https://discord.gg/vyZYJPQnDV)
-- 📁 [Google Drive](https://drive.google.com/drive/folders/1xZuncCLq0zyl9ZCVgSyfq0vt7SD9rqDw)
+- 📁 [Google Drive](https://drive.google.com/drive/folders/1VFsEadr6oPpfhrNUqnw7Yxbv7vTPhSNH)
 
 
 ### 🔍 WelTauk 
