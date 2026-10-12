@@ -7,32 +7,28 @@ Welcome! In this course, we explore tools and techniques to build reliable, safe
 
 ## 🚀 Current Projects
 
-### 🏥 Healthcare Scheduler
-- 💻 [Source Code](https://github.com/SienaCollegeSoftwareEngineering/Healthcare-Scheduler)
-- 🧠 [Project Board](https://github.com/orgs/SienaSoftwareEngineering/projects/26)
-- 💬 [Discord](https://discord.gg/QFp6DxUh)
-- 📁 [Google Drive](https://drive.google.com/drive/folders/1M1tGNhmu9C_LIcgbrfFBWMc4EufeeCLD)
 
-### 🍹 Drinksity
-- 💻 [Source Code](https://github.com/SienaCollegeSoftwareEngineering/Drinksity)
-- 🧠 [Project Board](https://github.com/orgs/SienaSoftwareEngineering/projects/31)
-- 📁 [Google Drive](https://drive.google.com/drive/folders/13DcV4Cs5fW7dHe6PvK7f-g8jTS25au6W)  
-  ┗ 📂 [2023-24](https://drive.google.com/drive/folders/1hc01DhkHNpUhvw0_6y4hPd4gB6B3gBha)
-
-### 📱 Social Media Platform
-- 💻 [Source Code](https://github.com/SienaCollegeSoftwareEngineering/SocialMedia)
-- 💻 [discuit updated](https://github.com/SienaSoftwareEngineering/discuit)
-- 🧠 [Project Board](https://github.com/orgs/SienaSoftwareEngineering/projects/30)
-- 💬 [Google Chat](https://chat.google.com/room/AAQA9qQA3SU?cls=7)
-- 📁 [Google Drive](https://drive.google.com/drive/folders/17IHxzUJjqn4TKah8gt-taSRpzQElqr43?usp=sharing)\
-  ┗ 📂 [2024-25 Social Media](https://drive.google.com/drive/folders/1rV6GnV7swlgyFW-ccwPpOSTU60FYQBum)\
-  ┗ 📂 [2023-24 WEL](https://drive.google.com/drive/folders/1NvSeGj0bRqnUFcah48xElABSCNcfzWnh)
 
 ### 🔍 Saints Select
 - 💻 [Source Code](https://github.com/SienaSoftwareEngineering/SaintsSelect)
 - 🧠 [Project Board](https://github.com/orgs/SienaSoftwareEngineering/projects/27)
 - 💬 [Discord](https://discord.gg/vyZYJPQnDV)
 - 📁 [Google Drive](https://drive.google.com/drive/folders/1xZuncCLq0zyl9ZCVgSyfq0vt7SD9rqDw)
+
+
+### 🔍 Behavior AI
+- 💻 [Source Code](https://github.com/SienaSoftwareEngineering/SaintsSelect)
+- 🧠 [Project Board](https://github.com/orgs/SienaSoftwareEngineering/projects/27)
+- 💬 [Discord](https://discord.gg/vyZYJPQnDV)
+- 📁 [Google Drive](https://drive.google.com/drive/folders/1xZuncCLq0zyl9ZCVgSyfq0vt7SD9rqDw)
+
+
+### 🔍 WelTauk 
+- 💻 [Source Code](https://github.com/SienaSoftwareEngineering/SaintsSelect)
+- 🧠 [Project Board](https://github.com/orgs/SienaSoftwareEngineering/projects/27)
+- 💬 [Discord](https://discord.gg/vyZYJPQnDV)
+- 📁 [Google Drive](https://drive.google.com/drive/folders/1xZuncCLq0zyl9ZCVgSyfq0vt7SD9rqDw)
+
 
 ---
 
@@ -44,6 +40,29 @@ Welcome! In this course, we explore tools and techniques to build reliable, safe
 
 ## 📦 Legacy Projects
 
+
+### 🏥 Healthcare Scheduler
+- 💻 [Source Code](https://github.com/SienaCollegeSoftwareEngineering/Healthcare-Scheduler)
+- 🧠 [Project Board](https://github.com/orgs/SienaSoftwareEngineering/projects/26)
+- 💬 [Discord](https://discord.gg/QFp6DxUh)
+- 📁 [Google Drive](https://drive.google.com/drive/folders/1M1tGNhmu9C_LIcgbrfFBWMc4EufeeCLD)
+
+
+### 🍹 Drinksity
+- 💻 [Source Code](https://github.com/SienaCollegeSoftwareEngineering/Drinksity)
+- 🧠 [Project Board](https://github.com/orgs/SienaSoftwareEngineering/projects/31)
+- 📁 [Google Drive](https://drive.google.com/drive/folders/13DcV4Cs5fW7dHe6PvK7f-g8jTS25au6W)  
+  ┗ 📂 [2023-24](https://drive.google.com/drive/folders/1hc01DhkHNpUhvw0_6y4hPd4gB6B3gBha)
+
+
+### 📱 Social Media Platform
+- 💻 [Source Code](https://github.com/SienaCollegeSoftwareEngineering/SocialMedia)
+- 💻 [discuit updated](https://github.com/SienaSoftwareEngineering/discuit)
+- 🧠 [Project Board](https://github.com/orgs/SienaSoftwareEngineering/projects/30)
+- 💬 [Google Chat](https://chat.google.com/room/AAQA9qQA3SU?cls=7)
+- 📁 [Google Drive](https://drive.google.com/drive/folders/17IHxzUJjqn4TKah8gt-taSRpzQElqr43?usp=sharing)\
+  ┗ 📂 [2024-25 Social Media](https://drive.google.com/drive/folders/1rV6GnV7swlgyFW-ccwPpOSTU60FYQBum)\
+  ┗ 📂 [2023-24 WEL](https://drive.google.com/drive/folders/1NvSeGj0bRqnUFcah48xElABSCNcfzWnh)
 
 ### 🥽 SoS Augmented Reality 
 _Concluded Sp 24_
