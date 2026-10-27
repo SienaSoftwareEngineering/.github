@@ -14,7 +14,7 @@ Welcome! In this course, we explore tools and techniques to build reliable, safe
   - 📜 [Legacy Code](https://github.com/SienaSoftwareEngineering/SaintsSelect)
 - 🧠 [Project Board](https://github.com/orgs/SienaSoftwareEngineering/projects/47)
 - 💬 [Alumni Discord](https://discord.gg/vyZYJPQnDV)
-- 📁 [Google Drive](https://drive.google.com/drive/folders/1xZuncCLq0zyl9ZCVgSyfq0vt7SD9rqDw)
+- 📁 [Google Drive]([https://drive.google.com/drive/folders/1xZuncCLq0zyl9ZCVgSyfq0vt7SD9rqDw](https://drive.google.com/drive/folders/1z1aK8eGHwMCNzub0ThE-vkwnsuXOvk-V?usp=drive_link))
 
 
 ### 🔍 Behavior AI
